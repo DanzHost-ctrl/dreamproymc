@@ -2,10 +2,10 @@
 // Tambahkan object baru untuk menambah konten. Tidak perlu membuat file HTML baru.
 const contents = [
   {
-    id: "dragon-addon",
-    name: "Dragon Addon",
+    id: "actual-guns-addon",
+    name: "Actual Guns Addon",
     category: "Addon",
-    version: "1.21+",
+    version: "26.60+",
     thumbnail: "images/addons/dragon.jpg",
     description: "Hadirkan naga bersahabat dan naga liar ke dalam dunia survival Bedrock-mu.",
     features: ["Beberapa jenis naga", "Bisa dijinakkan", "Cocok untuk survival"],
