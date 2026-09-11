@@ -2,25 +2,22 @@
 // Tambahkan object baru untuk menambah konten. Tidak perlu membuat file HTML baru.
 const contents = [
   {
-    id: "actual-guns-addon",
-    name: "Actual Guns Addon",
-    category: "Addon",
-    version: "26.20+",
-    thumbnail: "images/addons/actualguns.jpg",
-    description: "Actual Guns Addon adalah addon Minecraft Bedrock yang menambahkan berbagai elemen bertema senjata modern ke dalam permainan. Addon ini dirancang untuk memberikan variasi baru dalam gameplay dan membuat dunia Minecraft terasa berbeda dari survival vanilla.",
-    features: ["Menambahkan berbagai jenis senjata bertema modern", "Cocok untuk world bertema modern, adventure, atau roleplay.", "Memiliki model dan tampilan yang dibuat khusus untuk Minecraft Bedrock", "Menambahkan pengalaman gameplay yang berbeda dari Minecraft vanilla.", "Dapat digunakan sebagai bagian dari konsep world atau server bertema khusus."],
-    download: "https://www.curseforge.com/minecraft-bedrock/addons/actual-guns-addon/download/8146357"
-  },
-  {
-    id: "backpack-addon",
-    name: "Simple Backpack",
-    category: "Addon",
-    version: "1.20 - 1.21",
-    thumbnail: "images/addons/backpack.jpg",
-    description: "Addon backpack ringan untuk menambah ruang penyimpanan saat berpetualang.",
-    features: ["Resep crafting sederhana", "Beberapa ukuran backpack", "Mudah digunakan"],
-    download: "LINK_DOWNLOAD_BACKPACK"
-  },
+  id: "actual-guns-addon",
+  name: "Actual Guns Addon",
+  category: "Addon",
+  version: "26.20+",
+  thumbnail: "https://cdn.phototourl.com/free/2026-09-11-17f25f8e-7522-4e2b-b667-9312c672ec91.jpg",
+  description: "Actual Guns Addon adalah addon Minecraft Bedrock yang menambahkan berbagai elemen bertema senjata modern ke dalam permainan. Addon ini dirancang untuk memberikan variasi baru dalam gameplay dan membuat dunia Minecraft terasa berbeda dari survival vanilla.",
+  features: [
+    "Menambahkan berbagai jenis senjata bertema modern",
+    "Cocok untuk world bertema modern, adventure, atau roleplay.",
+    "Memiliki model dan tampilan yang dibuat khusus untuk Minecraft Bedrock",
+    "Menambahkan pengalaman gameplay yang berbeda dari Minecraft vanilla.",
+    "Dapat digunakan sebagai bagian dari konsep world atau server bertema khusus."
+  ],
+  download: "https://www.curseforge.com/minecraft-bedrock/addons/actual-guns-addon/download/8146357"
+}
+
   {
     id: "friendly-mobs-addon",
     name: "Friendly Mobs",
