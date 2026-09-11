@@ -7,11 +7,9 @@ const contents = [
     category: "Addon",
     version: "26.20+",
     thumbnail: "images/addons/actualguns.jpg",
-    description: "Actual Guns Addon
-
-Actual Guns Addon adalah addon Minecraft Bedrock yang menambahkan berbagai elemen bertema senjata modern ke dalam permainan. Addon ini dirancang untuk memberikan variasi baru dalam gameplay dan membuat dunia Minecraft terasa berbeda dari survival vanilla.»",
-    features: ["Menambahkan berbagai jenis senjata bertema modern", "Menambahkan pengalaman gameplay yang berbeda dari Minecraft vanilla", "Cocok untuk world bertema modern, adventure, atau roleplay", "Memiliki model dan tampilan yang dibuat khusus untuk Minecraft Bedrock"],
-    download: "LINK_DOWNLOAD_DRAGON"
+    description: "Actual Guns Addon adalah addon Minecraft Bedrock yang menambahkan berbagai elemen bertema senjata modern ke dalam permainan. Addon ini dirancang untuk memberikan variasi baru dalam gameplay dan membuat dunia Minecraft terasa berbeda dari survival vanilla.",
+    features: ["Menambahkan berbagai jenis senjata bertema modern", "Cocok untuk world bertema modern, adventure, atau roleplay.", "Memiliki model dan tampilan yang dibuat khusus untuk Minecraft Bedrock", "Menambahkan pengalaman gameplay yang berbeda dari Minecraft vanilla.", "Dapat digunakan sebagai bagian dari konsep world atau server bertema khusus."],
+    download: "https://www.curseforge.com/minecraft-bedrock/addons/actual-guns-addon/download/8146357"
   },
   {
     id: "backpack-addon",
