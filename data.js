@@ -5,10 +5,12 @@ const contents = [
     id: "actual-guns-addon",
     name: "Actual Guns Addon",
     category: "Addon",
-    version: "26.60+",
-    thumbnail: "images/addons/dragon.jpg",
-    description: "Hadirkan naga bersahabat dan naga liar ke dalam dunia survival Bedrock-mu.",
-    features: ["Beberapa jenis naga", "Bisa dijinakkan", "Cocok untuk survival"],
+    version: "26.20+",
+    thumbnail: "images/addons/actualguns.jpg",
+    description: "Actual Guns Addon
+
+Actual Guns Addon adalah addon Minecraft Bedrock yang menambahkan berbagai elemen bertema senjata modern ke dalam permainan. Addon ini dirancang untuk memberikan variasi baru dalam gameplay dan membuat dunia Minecraft terasa berbeda dari survival vanilla.»",
+    features: ["Menambahkan berbagai jenis senjata bertema modern", "Menambahkan pengalaman gameplay yang berbeda dari Minecraft vanilla", "Cocok untuk world bertema modern, adventure, atau roleplay", "Memiliki model dan tampilan yang dibuat khusus untuk Minecraft Bedrock"],
     download: "LINK_DOWNLOAD_DRAGON"
   },
   {
